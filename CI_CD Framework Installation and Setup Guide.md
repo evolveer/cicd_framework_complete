@@ -1,8 +1,8 @@
 # CI/CD Framework Installation and Setup Guide
 
-**Author:** evolveer and AU 
+**Author:** evolveer and AI  
 **Version:** 1.0  
-**Date:** July 2025  
+**Date:** December 2024  
 
 ## Table of Contents
 
