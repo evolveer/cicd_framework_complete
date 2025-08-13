@@ -203,13 +203,6 @@ python3 cicd_framework_scripts/monitoring/monitor.py \
 - No vendor lock-in or subscription fees
 - Community support and enterprise options available
 
-### Infrastructure Costs (Estimated Monthly)
-| Environment | AWS Cost | GCP Cost | Azure Cost | On-Premises |
-|-------------|----------|----------|------------|-------------|
-| **Development** | $200-400 | $180-350 | $220-420 | Hardware only |
-| **Staging** | $400-800 | $350-750 | $450-850 | Hardware only |
-| **Production** | $800-1500 | $700-1400 | $900-1600 | Hardware only |
-
 *Costs vary based on usage, region, and specific requirements*
 
 ### Cost Optimization Features
